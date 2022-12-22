@@ -174,12 +174,12 @@ def trip_duration_stats(df):
 
     
     
-    # TO DO: display total travel time
+    # TO DO: display total Travel time
     print('Total Trip Duration:', df['Trip Duration'].sum())
 
     
     
-    # TO DO: display mean travel time
+    # TO DO: display mean Travel time
     print('Mean Trip Duration:', df['Trip Duration'].mean())
 
     
@@ -196,7 +196,7 @@ def user_stats(df):
 
 
     
-    # TO DO: Display counts of user types
+    # TO DO: Display counts of User types
     user_types = df['User Type'].value_counts()
     print(user_types,'\n')
     
