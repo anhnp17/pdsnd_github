@@ -4,7 +4,7 @@
 December 22, 2022
 
 ### Project Title
-Explore US Bikeshare Data
+EXPLORE US BIKESHARE DATA
 
 + Bike Share Analysis using python
 
